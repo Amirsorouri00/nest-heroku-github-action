@@ -25,6 +25,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest-Heroku_Github_Action](https://www.bundleapps.io/blog/nestjs-docker-heroku-github-actions-guide) tutorial to deploy nest to heroku using github actions.
 
 ## Installation
 
